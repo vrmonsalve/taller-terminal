@@ -1,3 +1,4 @@
+```
 1  touch readme.md
 2  echo "hello world"
 3  pwd
@@ -10,3 +11,4 @@
 10  mv take-the-command-challenge tmp/files
 11  ln -s tmp/files/take-the-command-challenge take-the-command-challenge
 12  history > readme.md
+```
